@@ -1,0 +1,13 @@
+/shelf/
+/.idea/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+.idea
+node_modules
+MyBlocklistFiles/Blacklist*.txt
+MyBlocklistFiles/Duplicates.txt
+MyBlocklistFiles/Stat.txt
+package-lock.json
+.DS_Store
