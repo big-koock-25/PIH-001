@@ -910,6 +910,8 @@ coub.com
 discord.com
 
 # Video Platforms - youtube.com
+studio.youtube.com
+www.studio.youtube.com
 youtube.googleapis.com
 www.youtube.googleapis.com
 accounts.youtube.com
