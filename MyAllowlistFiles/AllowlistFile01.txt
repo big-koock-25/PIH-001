@@ -1,5 +1,6 @@
 # Others
 webhook.site
+softtorrent.ru
 
 # Social Networks - facebook.com
 0-edge-chat.facebook.com
