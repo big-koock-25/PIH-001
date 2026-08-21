@@ -4,8 +4,8 @@ softtorrent.ru
 # Others
 www.webhook.site
 webhook.site
-patreon.com
 www.patreon.com
+patreon.com
 
 # Social Networks - facebook.com
 0-edge-chat.facebook.com
