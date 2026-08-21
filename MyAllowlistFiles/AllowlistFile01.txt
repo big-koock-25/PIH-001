@@ -1,6 +1,9 @@
+# Temporary
+softtorrent.ru
+
 # Others
 webhook.site
-softtorrent.ru
+patreon.com
 
 # Social Networks - facebook.com
 0-edge-chat.facebook.com
